@@ -1,4 +1,4 @@
-# Travel-Recommendation-system
+
 # Travel Recommendation System
 
 A Travel Recommendation System that suggests destinations to users based on their preferences like budget, travel style, and interests. Built using Machine Learning algorithms, this system provides personalized suggestions to enhance travel experiences.
